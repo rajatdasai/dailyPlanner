@@ -1,0 +1,5 @@
+{
+  "name": "ZenTask Manager",
+  "description": "A clean, multi-category task manager with advanced filtering for today, overdue, and upcoming tasks. Manage family, work, and travel with ease.",
+  "requestFramePermissions": []
+}
